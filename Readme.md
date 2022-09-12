@@ -36,7 +36,9 @@ Let's start by minting your token, since this is the easiest. You can either use
 4. Install the SmartLock decoder, you can either build from Gradle, AndroidStudio, install the pre-built APK or install from PlayStore:
 
 GitHub source: https://github.com/JamesSmartCell/AugustLockCredentials
+
 GitHub pre-built APK: https://github.com/JamesSmartCell/AugustLockCredentials/releases
+
 Direct from PlayStore (at time of writing not yet published): https://play.google.com/store/apps/details?id=com.stormbird.augustcodereader
 
 5. Open the Smartlock decoder app. If the phone is rooted and you have successfully used the bluetooth lock/unlock on the phone, you should see the credentials appear. If they haven't appeared then exit and go back to the August/Yale app, ensure WiFi is off, Bluetooth is on and lock/unlock a few more times.
