@@ -1,0 +1,28 @@
+{
+    "name": "TokenScript Message Token",
+    "description": "This NFT is powered by ERC5169, which adds a utility script 'TokenScript' to make the token smart. The script will be downloaded automatically from the contract scriptURI() endpoint. The script can be updated by the owner by calling updateScriptURI(string newURI). This token can be updated by calling setTokenURI(string new URI).",
+    "image_url": "ipfs://QmRFWn23HowsWFc11BUfBo5FBrBLis67TqN8JnXLXazDAT",
+    "external_url": "https://github.com/TokenScript",
+    "attributes": [
+        {
+            "key": "Token Type",
+            "trait_type": "Token Type",
+            "value": "Smart Token"
+        },
+        {
+            "key": "Power",
+            "trait_type": "Power",
+            "value": "Over 9000"
+        },
+        {
+            "key": "Year",
+            "trait_type": "Year",
+            "value": "2022"
+        },
+        {
+            "key": "TokenScript",
+            "trait_type": "TokenScript",
+            "value": "2nd Gen"
+        }
+    ]
+}
