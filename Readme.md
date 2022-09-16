@@ -13,11 +13,15 @@ Let's start by finding the BlueTooth key credentials for your lock.
 
 Full instructions for this are on the app repo page here: https://github.com/JamesSmartCell/AugustLockCredentials
 
-In Brief: Install the decoder app by building from source or installing from here: https://play.google.com/store/apps/details?id=com.stormbird.augustcodereader
+## In Brief: 
+
+Install the decoder app by building from source or installing from here: https://play.google.com/store/apps/details?id=com.stormbird.augustcodereader
 
 Operate the lock a few times with WiFi off, then run the app, and ensure you can see the lock details as shown in the screen.
 
 With this you can now create the Smart Token to operate your lock.
+
+## Create the Token and Firmware
 
 Go to the SmartTokenFactory dapp here: http://smarttokenlabs.duckdns.org/
 
